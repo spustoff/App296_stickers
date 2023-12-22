@@ -1,9 +1,56 @@
 {
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   },
   "properties" : {
     "grid-size" : "regular"
-  }
+  },
+  "stickers" : [
+    {
+      "filename" : "Property 1=sticker_618x618_10.sticker"
+    },
+    {
+      "filename" : "Property 1=sticker_618x618_13.sticker"
+    },
+    {
+      "filename" : "Property 1=sticker_618x618_14.sticker"
+    },
+    {
+      "filename" : "Property 1=sticker_618x618_06.sticker"
+    },
+    {
+      "filename" : "Property 1=sticker_618x618_02.sticker"
+    },
+    {
+      "filename" : "Property 1=sticker_618x618_07.sticker"
+    },
+    {
+      "filename" : "Property 1=sticker_618x618_04.sticker"
+    },
+    {
+      "filename" : "Property 1=sticker_618x618_08.sticker"
+    },
+    {
+      "filename" : "Property 1=sticker_618x618_01.sticker"
+    },
+    {
+      "filename" : "Property 1=sticker_618x618_09.sticker"
+    },
+    {
+      "filename" : "Property 1=sticker_618x618_12.sticker"
+    },
+    {
+      "filename" : "Property 1=sticker_618x618_11.sticker"
+    },
+    {
+      "filename" : "Property 1=sticker_618x618_03.sticker"
+    },
+    {
+      "filename" : "Property 1=sticker_618x618_15.sticker"
+    },
+    {
+      "filename" : "Property 1=sticker_618x618_05.sticker"
+    }
+  ]
 }
